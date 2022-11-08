@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# React: Desenvolvendo com JavaScript
+![image](https://user-images.githubusercontent.com/105315548/200602829-71ed7484-3a32-4785-928b-f7c3a5ab179e.png)
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
